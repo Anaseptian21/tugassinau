@@ -1,0 +1,18 @@
+{
+  "name": "ana-work",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "fs": "^0.0.1-security",
+    "node-notifier": "^10.0.1",
+    "readline-sync": "^1.4.10"
+  }
+}
